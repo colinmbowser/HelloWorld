@@ -1,6 +1,6 @@
 # Overview
 
-This is a basic Hello World program I created. I created this to demonstrate the use of Visual Studio Code, GitHub, and C++ integrated together.
+This is a basic Hello World program. I created this to demonstrate the use of Visual Studio Code, GitHub, and C++ integrated together.
 
 [Software Demo Video]()
 
